@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "rutaji_items:block/big_sponge"
+  }
+}
